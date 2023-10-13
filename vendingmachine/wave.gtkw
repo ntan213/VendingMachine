@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Wed Oct 11 15:31:54 2023
+[*]
+[dumpfile] "/home/tanvippro/project/vendingmachine/wave.fst"
+[dumpfile_mtime] "Wed Oct 11 15:26:16 2023"
+[dumpfile_size] 826
+[savefile] "/home/tanvippro/project/vendingmachine/wave.gtkw"
+[timestart] 0
+[size] 1920 961
+[pos] -1 -1
+*-6.068496 339 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 297
+[signals_width] 134
+[sst_expanded] 1
+[sst_vpaned_height] 285
+@25
+[color] 7
+TOP.clk_i
+@28
+TOP.nickel_i
+TOP.dime_i
+TOP.quarter_i
+[color] 5
+TOP.soda_o
+[color] 1
+TOP.change_o[2:0]
+[pattern_trace] 1
+[pattern_trace] 0
